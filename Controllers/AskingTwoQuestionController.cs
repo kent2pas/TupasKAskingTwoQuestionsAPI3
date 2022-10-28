@@ -1,10 +1,7 @@
-//
-//
-//
+//Kent Tupas
+//10/25/2022
+//Asking Two Questions
 //Peer Review: Elizar Garcia, code works great. i really like the layout of how the questions are asked and followed up with. The code shows up on postman with no problem. Good job sir!
-
-
-
 
 using Microsoft.AspNetCore.Mvc;
 
